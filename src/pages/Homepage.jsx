@@ -59,6 +59,7 @@ const Homepage = () => {
           <div>
           <CodeBlock 
                 position={"lg:flex-row"}
+                // done by aman randi ka
                 heading={
                     <div className='text-4xl font-semibold'>
                         Unlock Your
